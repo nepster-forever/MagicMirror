@@ -1,0 +1,32 @@
+{
+	"LOADING": "Завантаження;",
+
+	"TODAY": "Сьогодні",
+	"TOMORROW": "Завтра",
+	"DAYAFTERTOMORROW": "Післязавтра",
+	"RUNNING": "Закінчується через",
+	"EMPTY": "Не має майбутьніх подій",
+
+	"WEEK": "Неділя {weekNumber}",
+
+	"N": "С",
+	"NNE": "ССВ",
+	"NE": "СВ",
+	"ENE": "ВСВ",
+	"E": "В",
+	"ESE": "ВЮВ",
+	"SE": "ЮВ",
+	"SSE": "ЮЮВ",
+	"S": "Ю",
+	"SSW": "ЮЮЗ",
+	"SW": "ЮЗ",
+	"WSW": "ЗЮЗ",
+	"W": "З",
+	"WNW": "ЗСЗ",
+	"NW": "СЗ",
+	"NNW": "ССЗ",
+
+	"UPDATE_NOTIFICATION": "Доступні обновлення для MagicMirror².",
+	"UPDATE_NOTIFICATION_MODULE": "Доступні обновлення для {MODULE_NAME} модуля.",
+	"UPDATE_INFO": "Дана інсталяція позаді {BRANCH_NAME} гілка на {COMMIT_COUNT} коментів."
+}
